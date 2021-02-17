@@ -1,0 +1,6 @@
+framework module Pods_salesforcePOC_salesforcePOCUITests {
+  umbrella header "Pods-salesforcePOC-salesforcePOCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
